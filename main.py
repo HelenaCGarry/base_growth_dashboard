@@ -181,7 +181,7 @@ st.markdown("""
 ### Revenue Growth
 
 **Why:**  
-Captures the financial growth of the company, indicating success in monetizing services.
+Captures the financial growth of the company, indicating success in delivering energy solutions to Texas households.
 
 **Growth Indicator:**  
 A consistent increase shows expanding customer base and/or higher revenue per customer.
